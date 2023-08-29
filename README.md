@@ -1,10 +1,10 @@
 # Ranek - Origamid
 ![Badge](http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge)   
 
-<img src="https://github.com/luizfelipe9627/ranek/blob/main/src/assets/ranek.gif" alt="Apresentação do Ranek">
+<img src="https://github.com/luizfelipe9627/ranek/blob/main/src/assets/img/ranek.gif" alt="Apresentação do Ranek">
 
 ## 📄 Descrição
-O Ranek é um marketplace que disponibilza produtos eletronicos.
+O Ranek é um marketplace que disponibiliza produtos eletrônicos.
 
 ### <a href="https://luizfelipe9627-ranek.netlify.app">Acesse o projeto</a>
 
