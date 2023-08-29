@@ -24,7 +24,7 @@ const Contato = () => {
         <h1>Entre em contato.</h1>
 
         <ul className={styles.dados}>
-          <li>luiz@email.com</li>
+          <li>ranek@email.com</li>
           <li>+55 (11) 99999-9999</li>
           <li>Rua Ali Longe, 248</li>
         </ul>
