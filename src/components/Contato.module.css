@@ -18,3 +18,15 @@
   background-color: #DDD;
   margin-right: 10px;
 }
+
+@media (max-width: 750px) {
+  .contato {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 500px) {
+  .contato {
+    grid-template-columns: 1fr;
+  }
+}
